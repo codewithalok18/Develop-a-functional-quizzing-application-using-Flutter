@@ -1,16 +1,50 @@
-# quiz_app
+# 🧠 Flutter Quizzing Application
 
-A new Flutter project.
+A simple and functional **mobile quiz app** built using **Flutter**. This app allows users to answer multiple-choice questions and view their score at the end.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Home screen with "Start Quiz" button
+- Multiple-choice questions interface
+- Score summary after quiz completion
+- Responsive design for Android and iOS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📁 Project Structure
+
+quiz_app/
+├── android/ # Android-specific files
+├── ios/ # iOS-specific files
+├── lib/
+│ ├── main.dart # App entry point
+│ ├── screens/
+│ │ ├── home_screen.dart # Home screen with start button
+│ │ └── quiz_screen.dart # Quiz logic and UI
+├── pubspec.yaml # Project metadata and dependencies
+
+### Run Locally
+
+```bash
+git clone https://github.com/codewithalok18/Develop-a-functional-quizzing-application-using-Flutter.git
+cd Develop-a-functional-quizzing-application-using-Flutter
+flutter pub get
+flutter run
+
+### 📸 Add Screenshots
+
+
+![image](https://github.com/user-attachments/assets/41ee3f82-355e-4c26-bfd2-1a3283f785b0)
+
+
+
+
+![image](https://github.com/user-attachments/assets/9b9abf4c-5dcc-46a5-96f0-4d4d8d6aec8a)
+
+codewithalok18
+
+
+
+
